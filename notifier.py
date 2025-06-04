@@ -15,7 +15,7 @@ def _smtp_params() -> tuple[str, int, str, str]:
     """Read SMTP settings from environment variables."""
     return (
         os.getenv("SMTP_SERVER", ""),
-        int(os.getenv("SMTP_PORT", "465")),
+        int(os.getenv("SMTP_PORT") or 465),
         os.getenv("SMTP_USER", ""),
         os.getenv("SMTP_PASS", ""),
     )
