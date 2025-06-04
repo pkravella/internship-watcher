@@ -9,28 +9,46 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          # So we can push back — needs the full history
+          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run watcher
-        env:                       # pass GH secrets -> env vars
+        env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT:   ${{ secrets.SMTP_PORT }}
           SMTP_USER:   ${{ secrets.SMTP_USER }}
           SMTP_PASS:   ${{ secrets.SMTP_PASS }}
           EMAIL_FROM:  ${{ secrets.EMAIL_FROM }}
           EMAIL_TO:    ${{ secrets.EMAIL_TO }}
+        run: python watcher.py
+
+      - name: Commit snapshot if changed
+        # only run if previous step succeeded
+        if: success()
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          python watcher.py
+          git config --global user.name  "internship‑bot"
+          git config --global user.email "actions@github.com"
+
+          # stage the two files (they may or may not exist)
+          git add snapshot.json .etag || true
+
+          # commit only if there are changes (status --porcelain gives non‑empty output)
+          if [[ -n "$(git status --porcelain)" ]]; then
+              git commit -m "Update snapshot [skip ci]" || true
+              # authenticate using the PAT
+              git push https://$GH_PAT@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+          else
+              echo "No changes to commit."
+          fi
