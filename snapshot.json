@@ -1,5 +1,20 @@
 [
   {
+    "company": "BNP Paribas",
+    "link": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=ouckah\"",
+    "role": "Technology Analyst Intern"
+  },
+  {
+    "company": "Bank of America",
+    "link": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations?utm_source=ouckah\"",
+    "role": "Cybersecurity Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careers.bankofamerica.com/en-us/students/job-detail/12929/global-quantitative-data-analytics-summer-2026-analyst-global-risk-management-multiple-locations?utm_source=ouckah\"",
+    "role": "Quantitative Data Analytics Summer Analyst Intern"
+  },
+  {
     "company": "Abbott",
     "link": "https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern?utm_source=ouckah\"",
     "role": "IT Intern"
@@ -173,5 +188,10 @@
     "company": "Aquatic Capital Management",
     "link": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=ouckah\"",
     "role": "Quantitative Researcher Intern"
+  },
+  {
+    "company": "Blackrock",
+    "link": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=ouckah\"",
+    "role": "2026 Summer Intern"
   }
 ]
