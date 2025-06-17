@@ -1,11 +1,21 @@
 [
   {
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/?utm_source=ouckah\"",
+    "role": "Trading Fundamental Analyst Intern"
+  },
+  {
     "company": "BNP Paribas",
     "link": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=ouckah\"",
     "role": "Technology Analyst Intern"
   },
   {
     "company": "Bank of America",
+    "link": "https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations?utm_source=ouckah\"",
+    "role": "Software Engineer Summer Analyst Intern"
+  },
+  {
+    "company": "\u21b3",
     "link": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations?utm_source=ouckah\"",
     "role": "Cybersecurity Intern"
   },
