@@ -1,11 +1,61 @@
 [
   {
+    "company": "Trane Technologies",
+    "link": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2502597EXTERNALENGLOBAL/2026-Engineering-Intern-Computer-Engineering-Software-Engineering-Computer-Science?utm_source=ouckah\"",
+    "role": "Engineering Intern"
+  },
+  {
     "company": "Salesforce",
     "link": "https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/?utm_source=ouckah\"",
     "role": "Associate Product Manager Intern"
   },
   {
     "company": "Palantir",
+    "link": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=ouckah\"",
+    "role": "Software Engineer Intern, Infrastructure"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f?utm_source=ouckah\"",
+    "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249?utm_source=ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b?utm_source=ouckah\"",
+    "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6?utm_source=ouckah\"",
+    "role": "Forward Deployed Software Engineer Intern, Commercial"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2?utm_source=ouckah\"",
+    "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d?utm_source=ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140?utm_source=ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
     "link": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?utm_source=ouckah\"",
     "role": "Software Engineer Intern"
   },
@@ -53,6 +103,11 @@
     "company": "Geneva Trading",
     "link": "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007?utm_source=ouckah\"",
     "role": "Quantitative Trader Intern"
+  },
+  {
+    "company": "Caterpillar",
+    "link": "https://careers.caterpillar.com/en/jobs/r0000312109/2026-summer-corporate-intern-engineering/?source=pookie&utm_source=ouckah\"",
+    "role": "Engineering Intern"
   },
   {
     "company": "Walleye Capital",
