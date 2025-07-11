@@ -1,18 +1,68 @@
 [
   {
-    "company": "Tesla",
-    "link": "https://www.tesla.com/careers/search/job/245486?utm_source=ouckah\"",
-    "role": "Machine Learning Engineer Intern, Energy Engineering"
+    "company": "Two Sigma",
+    "link": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257?utm_source=ouckah\"",
+    "role": "Quantitative Researcher Intern"
+  },
+  {
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/position/8070509002/?utm_source=ouckah\"",
+    "role": "Trading Desk Operations Engineer Intern, Trading Desk Operations"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=ouckah\"",
+    "role": "Tools and Compilers Research and Development Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/7828490002/?utm_source=ouckah\"",
+    "role": "Strategy and Product Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8065576002/?utm_source=ouckah\"",
+    "role": "Network Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8062907002/?utm_source=ouckah\"",
+    "role": "Linux Engineer Intern, IT and Systems Engineering"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8040547002/?utm_source=ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8062455002/?utm_source=ouckah\"",
+    "role": "FPGA Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8060848002/?utm_source=ouckah\"",
+    "role": "Machine Learning Researcher Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8048874002/?utm_source=ouckah\"",
+    "role": "Machine Learning Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/7979031002/?utm_source=ouckah\"",
+    "role": "Quantitative Researcher Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.janestreet.com/join-jane-street/position/8047137002/?utm_source=ouckah\"",
+    "role": "Quantitative Trader Intern"
   },
   {
     "company": "DRW",
     "link": "https://job-boards.greenhouse.io/drweng/jobs/6926715?utm_source=ouckah\"",
     "role": "Software Developer Intern"
-  },
-  {
-    "company": "Capital One",
-    "link": "https://www.capitalonecareers.com/job/mclean/product-development-internship-program-summer-2026/31238/83485599760?utm_source=ouckah\"",
-    "role": "Product Development Intern \ud83d\udec2"
   },
   {
     "company": "TSMC",
@@ -398,11 +448,6 @@
     "company": "Point72",
     "link": "https://job-boards.greenhouse.io/point72/jobs/7297613002?utm_source=ouckah\"",
     "role": "Quantitative Developer Intern"
-  },
-  {
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=ouckah\"",
-    "role": "Tools & Compilers Research and Development Intern"
   },
   {
     "company": "D.E Shaw",
