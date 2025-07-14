@@ -1,5 +1,30 @@
 [
   {
+    "company": "Susquehanna",
+    "link": "https://careers.sig.com/job/SUSQA004Y9571?mode=apply&utm_source=ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Caterpillar",
+    "link": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics?utm_source=ouckah\"",
+    "role": "Digital and Analytics Intern"
+  },
+  {
+    "company": "Akuna Capital",
+    "link": "https://akunacapital.com/job-details?gh_jid=6996427&utm_source=ouckah\"",
+    "role": "Software Engineer Intern, C++"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://akunacapital.com/job-details?gh_jid=7055471&utm_source=ouckah\"",
+    "role": "Software Engineer Intern, Python"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://akunacapital.com/job-details?gh_jid=7055793&utm_source=ouckah\"",
+    "role": "Quantitative Research Intern"
+  },
+  {
     "company": "Tower Research Capital",
     "link": "https://tower-research.com/open-positions/?gh_jid=7062358&utm_source=ouckah\"",
     "role": "Quantitative Trader Intern"
@@ -305,11 +330,6 @@
     "role": "Quantitative Technologist Intern"
   },
   {
-    "company": "Merck",
-    "link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1?utm_source=ouckah\"",
-    "role": "IT Intern"
-  },
-  {
     "company": "Morgan Stanley",
     "link": "https://morganstanley.tal.net/vx/candidate/apply/19159?utm_source=ouckah\"",
     "role": "SWE Intern, Data Analyst Intern"
@@ -418,11 +438,6 @@
     "company": "BNP Paribas",
     "link": "https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1?utm_source=ouckah\"",
     "role": "Quant Research & Trading Intern"
-  },
-  {
-    "company": "Voloridge",
-    "link": "https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026?utm_source=ouckah\"",
-    "role": "Research Software Engineer Intern"
   },
   {
     "company": "Tower Research Capital",
