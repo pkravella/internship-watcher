@@ -1,6 +1,11 @@
 [
   {
     "company": "Bill",
+    "link": "https://www.bill.com/job?5588103004&gh_jid=5588103004&utm_source=ouckah\"",
+    "role": "Machine Learning Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
     "link": "https://boards.greenhouse.io/embed/job_app?token=5588094004&utm_source=ouckah\"",
     "role": "Software Engineer Intern"
   },
