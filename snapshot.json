@@ -1,5 +1,10 @@
 [
   {
+    "company": "Lynk",
+    "link": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7?utm_source=ouckah\"",
+    "role": "Telecommunications Intern"
+  },
+  {
     "company": "Castleton Commodities International",
     "link": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah\"",
     "role": "GenAI Intern"
@@ -42,17 +47,12 @@
   {
     "company": "Kearney&Company",
     "link": "https://careers.kearneyco.com/jobs/4822?utm_source=ouckah\"",
-    "role": "Technology Intern"
+    "role": "Technology Intern \ud83c\uddfa\ud83c\uddf8"
   },
   {
     "company": "Genworth",
     "link": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08&utm_source=ouckah\"",
     "role": "IT Intern"
-  },
-  {
-    "company": "CCC Intelligent Solutions Inc.",
-    "link": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014089?utm_source=ouckah\"",
-    "role": "AI Enablement Intern"
   },
   {
     "company": "Castleton Commodities International",
@@ -433,11 +433,6 @@
     "company": "\u21b3",
     "link": "https://www.imc.com/us/careers/jobs/4580810101/?utm_source=ouckah\"",
     "role": "Software Engineer Intern"
-  },
-  {
-    "company": "Geneva Trading",
-    "link": "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007?utm_source=ouckah\"",
-    "role": "Quantitative Trader Intern"
   },
   {
     "company": "Epic",
