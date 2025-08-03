@@ -1,5 +1,10 @@
 [
   {
+    "company": "TikTok",
+    "link": "https://lifeattiktok.com/search/7533388869200333074?spread=XKM9ZXE&utm_source=ouckah\"",
+    "role": "Software Engineer Intern, Data Ecosystem"
+  },
+  {
     "company": "Ramp",
     "link": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f?utm_source=ouckah\"",
     "role": "Software Engineer Intern, Backend"
@@ -8,6 +13,11 @@
     "company": "\u21b3",
     "link": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa?utm_source=ouckah\"",
     "role": "Software Engineer Intern, Frontend"
+  },
+  {
+    "company": "Otis",
+    "link": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057?utm_source=ouckah\"",
+    "role": "Software Engineering Intern"
   },
   {
     "company": "Medtronic",
@@ -23,6 +33,11 @@
     "company": "\u21b3",
     "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2026_R40546-1?utm_source=ouckah\"",
     "role": "Software Engineering Intern \ud83d\udec2"
+  },
+  {
+    "company": "HPR",
+    "link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003?gh_src=9yscuffh3us&utm_source=ouckah\"",
+    "role": "Software Engineering Intern"
   },
   {
     "company": "DV Commodities",
