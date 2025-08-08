@@ -1,5 +1,30 @@
 [
   {
+    "company": "Nicolet National Bank",
+    "link": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf&source=&lang=en&source=Indeed.com&utm_source=ouckah\"",
+    "role": "Software Developer Intern"
+  },
+  {
+    "company": "Metropolitan Transportation Authority",
+    "link": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb?nl=1&fr=true&utm_source=ouckah\"",
+    "role": "Software Development Intern, Emerging Talent"
+  },
+  {
+    "company": "Dell",
+    "link": "https://jobs.dell.com/en/job/hopkinton/dell-isg-software-engineering-intern/375/84768353520?utm_source=ouckah\"",
+    "role": "Software Engineering Intern, ISG"
+  },
+  {
+    "company": "Cognitiv",
+    "link": "https://jobs.lever.co/cognitiv/e5efa188-f16b-4715-b90c-77049ba2603d?utm_source=ouckah\"",
+    "role": "Machine Learning Engineer Intern"
+  },
+  {
+    "company": "ByteDance",
+    "link": "https://jobs.bytedance.com/en/position/7535972870166677778/detail?spread=A3T3U6W&utm_source=ouckah\"",
+    "role": "Site Reliability Engineer Intern, Data Infrastructure"
+  },
+  {
     "company": "Jump Trading",
     "link": "https://www.jumptrading.com/careers/7077897/?gh_jid=7077897&utm_source=ouckah\"",
     "role": "Tech Ops Engineer Intern"
@@ -8,6 +33,11 @@
     "company": "\u21b3",
     "link": "https://www.jumptrading.com/careers/7026718/?gh_jid=7026718&utm_source=ouckah\"",
     "role": "Quantitative Researcher Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.jumptrading.com/careers/6900970/?gh_jid=6900970&utm_source=ouckah\"",
+    "role": "Quantitative Trader Intern"
   },
   {
     "company": "\u21b3",
@@ -125,11 +155,6 @@
     "role": "Cyber Security Intern \ud83d\udec2"
   },
   {
-    "company": "\u21b3",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1?utm_source=ouckah\"",
-    "role": "Technology Internship Program \ud83d\udec2"
-  },
-  {
     "company": "Amazon",
     "link": "https://www.amazon.jobs/en/jobs/3037587/2026-program-manager-intern?utm_source=ouckah\"",
     "role": "Program Manager Intern \ud83d\udec2"
@@ -172,7 +197,7 @@
   {
     "company": "HPR",
     "link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003?gh_src=9yscuffh3us&utm_source=ouckah\"",
-    "role": "Software Engineering Intern"
+    "role": "Software Engineering Intern \ud83d\udec2"
   },
   {
     "company": "DV Commodities",
