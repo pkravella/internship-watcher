@@ -1,5 +1,10 @@
 [
   {
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4?utm_source=ouckah\"",
+    "role": "Software Engineer, Mobile Intern"
+  },
+  {
     "company": "Neuralink",
     "link": "https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=f6d5520e3us&utm_source=ouckah\"",
     "role": "Software Engineer Intern"
@@ -73,11 +78,6 @@
     "company": "Hudson River Trading",
     "link": "https://www.hudsonrivertrading.com/hrt-job/algorithm-trader-quantitative-trader-internship-summer-2026/?utm_source=ouckah\"",
     "role": "Algorithm Trader Intern"
-  },
-  {
-    "company": "Dell",
-    "link": "https://jobs.dell.com/en/job/hopkinton/dell-isg-software-engineering-intern/375/84768353520?utm_source=ouckah\"",
-    "role": "Software Engineering Intern, ISG"
   },
   {
     "company": "Databricks",
