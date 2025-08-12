@@ -1,13 +1,23 @@
 [
   {
+    "company": "Radiant",
+    "link": "https://job-boards.greenhouse.io/radiant/jobs/4591921005?gh_src=orgc7kfu5us&utm_source=ouckah\"",
+    "role": "Software Engineering Intern \ud83d\udec2"
+  },
+  {
+    "company": "Oklahoma City Thunder",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=316815&clientkey=8E7F16AD6654E4ED3797EE9F40DB0A48&source=Indeed&utm_source=ouckah\"",
+    "role": "Software Engineer Intern, Basketball Operations"
+  },
+  {
+    "company": "Activision Blizzard",
+    "link": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025849EXTERNALENGLOBAL/Graphics-Engineering-Intern?utm_source=indeed&utm_medium=phenom-feeds&utm_source=ouckah\"",
+    "role": "Graphics Engineering Intern, Overwatch"
+  },
+  {
     "company": "Anduril",
     "link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=&utm_source=ouckah\"",
     "role": "Software Engineer Intern"
-  },
-  {
-    "company": "Wurl LLC.",
-    "link": "https://job-boards.greenhouse.io/wurljobs/jobs/4570159006?gh_src=5874d0446us&utm_source=ouckah\"",
-    "role": "Data Engineer Intern"
   },
   {
     "company": "Southwest Research Institute",
@@ -113,11 +123,6 @@
     "company": "\u21b3",
     "link": "https://campusjobs.mlp.com/careers?pid=755944533187&location=New%20York%2C%20New%20York%2C%20United%20States%20of%20America&recommended=1&utm_source=ouckah\"",
     "role": "Software Engineer Intern, New York"
-  },
-  {
-    "company": "Metropolitan Transportation Authority",
-    "link": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb?nl=1&fr=true&utm_source=ouckah\"",
-    "role": "Software Development Intern, Emerging Talent"
   },
   {
     "company": "Hudson River Trading",
