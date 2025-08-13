@@ -1,5 +1,10 @@
 [
   {
+    "company": "TetraMem",
+    "link": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209&req_loc=813128&&&nohd#job&utm_source=ouckah\"",
+    "role": "Software Intern, Machine Learning"
+  },
+  {
     "company": "Sonic Healthcare USA, Inc",
     "link": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017?utm_source=ouckah\"",
     "role": "Software Development Intern, Cache"
@@ -15,9 +20,9 @@
     "role": "Software Engineering Intern"
   },
   {
-    "company": "Radiant",
-    "link": "https://job-boards.greenhouse.io/radiant/jobs/4591921005?gh_src=orgc7kfu5us&utm_source=ouckah\"",
-    "role": "Software Engineering Intern \ud83d\udec2"
+    "company": "",
+    "link": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042&req_loc=960817&&&nohd#job?ref=vansh&utm_source=ouckah\"",
+    "role": "Software Intern, Embedded"
   },
   {
     "company": "Oklahoma City Thunder",
@@ -32,7 +37,7 @@
   {
     "company": "Anduril",
     "link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=&utm_source=ouckah\"",
-    "role": "Software Engineer Intern"
+    "role": "Software Engineer Intern \ud83d\udec2"
   },
   {
     "company": "Southwest Research Institute",
@@ -53,11 +58,6 @@
     "company": "\u21b3",
     "link": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6?utm_source=ouckah\"",
     "role": "Software Engineer Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4?utm_source=ouckah\"",
-    "role": "Software Engineer, Mobile Intern"
   },
   {
     "company": "Neuralink",
