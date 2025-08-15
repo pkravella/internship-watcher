@@ -1,5 +1,15 @@
 [
   {
+    "company": "Uline",
+    "link": "https://www.uline.jobs/JobDetails?jobid=R256032&utm_source=ouckah\"",
+    "role": "Software Developer Intern"
+  },
+  {
+    "company": "TransPerfect",
+    "link": "https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116?utm_source=ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
     "company": "TikTok",
     "link": "https://lifeattiktok.com/search/7538301580093720840?utm_source=ouckah\"",
     "role": "Backend Software Engineer Intern, Media Platform"
@@ -28,6 +38,16 @@
     "company": "Skyworks",
     "link": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/?utm_source=ouckah\"",
     "role": "Applications Engineer Intern, Power Access"
+  },
+  {
+    "company": "Motorola Solutions",
+    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902?utm_source=ouckah\"",
+    "role": "Supply Chain AI Intern"
+  },
+  {
+    "company": "Mitsubishi UFJ Financial Group (MUFG)",
+    "link": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/XMLNAME-2026-Summer-Analyst-Program--Information-Technology---Tampa--FL_10072145-WD-1?utm_source=ouckah\"",
+    "role": "Summer Analyst Intern, Information Technology \ud83d\udec2"
   },
   {
     "company": "HPE",
@@ -65,7 +85,27 @@
     "role": "Software Development Intern \ud83d\udec2"
   },
   {
+    "company": "BlackEdge Capital",
+    "link": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005?utm_source=ouckah\"",
+    "role": "Quantitative Trader Intern"
+  },
+  {
+    "company": "Beckman Coulter Life Sciences",
+    "link": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1294771EXTERNALENGLOBAL/AI-Powered-Marketing-Operations-Project-Management-Intern?utm_source=ouckah\"",
+    "role": "AI-Powered Marketing Operations & Project Management Intern"
+  },
+  {
+    "company": "Amentum",
+    "link": "https://www.amentumcareers.com/jobs/ai-and-robotics-intern-huntsville-alabama-united-states-4fa685a1-2e01-42fa-8597-b9f54e5818be?utm_source=ouckah\"",
+    "role": "AI and Robotics Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
     "company": "Adobe",
+    "link": "https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer?utm_source=ouckah\"",
+    "role": "Machine Learning Engineer Intern, AI/ML"
+  },
+  {
+    "company": "\u21b3",
     "link": "https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer?utm_source=ouckah\"",
     "role": "Software Engineer Intern"
   },
