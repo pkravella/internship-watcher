@@ -1,5 +1,20 @@
 [
   {
+    "company": "L'Oreal",
+    "link": "https://careers.loreal.com/en_US/jobs/JobDetail/2026-L-Or-al-USA-Summer-Internship-Program-Information-Technology-IT-Undergraduate/215820?utm_source=github-vansh-ouckah\"",
+    "role": "Information Technology Intern"
+  },
+  {
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us?utm_source=github-vansh-ouckah\"",
+    "role": "Security Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us?utm_source=github-vansh-ouckah\"",
+    "role": "Systems Development Engineer Intern"
+  },
+  {
     "company": "Seagate",
     "link": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100/?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern"
@@ -205,11 +220,6 @@
     "role": "Software Engineer Intern"
   },
   {
-    "company": "RTX",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
-  },
-  {
     "company": "Northrop Grumman",
     "link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/XMLNAME-2025-Software-Engineer-Intern---Rome--NY-_R10204079?utm_source=github-vansh-ouckah\"",
     "role": "2025 Software Engineer Intern"
@@ -280,11 +290,6 @@
     "role": "Software Intern, Machine Learning"
   },
   {
-    "company": "Sonic Healthcare USA, Inc",
-    "link": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017?utm_source=github-vansh-ouckah\"",
-    "role": "Software Development Intern, Cache"
-  },
-  {
     "company": "Shopify",
     "link": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern&utm_source=github-vansh-ouckah\"",
     "role": "USA Engineering Internships \ud83d\udec2"
@@ -293,11 +298,6 @@
     "company": "New York Life",
     "link": "https://careers.newyorklife.com/careers?location=New%20York%2C%20New%20York%2C%20US&pid=30591072&domain=newyorklife.com&sort_by=relevance&utm_source=github-vansh-ouckah\"",
     "role": "Investments AI & Data Intern, AI & DS Team"
-  },
-  {
-    "company": "GlobalFoundries",
-    "link": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89&utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
   },
   {
     "company": "Oklahoma City Thunder",
