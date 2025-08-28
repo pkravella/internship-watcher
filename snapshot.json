@@ -1,5 +1,225 @@
 [
   {
+    "company": "Waypoint Transit",
+    "link": "https://www.workatastartup.com/jobs/80387?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Vendra",
+    "link": "https://www.workatastartup.com/jobs/78999?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.workatastartup.com/jobs/79000?utm_source=github-vansh-ouckah\"",
+    "role": "Full Stack ML Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Upsolve",
+    "link": "https://www.workatastartup.com/jobs/80380?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "ThirdLayer",
+    "link": "https://www.workatastartup.com/jobs/76659?utm_source=github-vansh-ouckah\"",
+    "role": "Full-Stack Engineer Intern"
+  },
+  {
+    "company": "Tandem (S24)",
+    "link": "https://www.workatastartup.com/jobs/80518?utm_source=github-vansh-ouckah\"",
+    "role": "Eng Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Stack Auth",
+    "link": "https://www.workatastartup.com/jobs/80350?utm_source=github-vansh-ouckah\"",
+    "role": "SWE Intern"
+  },
+  {
+    "company": "Sonauto",
+    "link": "https://www.workatastartup.com/jobs/80519?utm_source=github-vansh-ouckah\"",
+    "role": "ML Engineer Intern, Research \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Silimate",
+    "link": "https://www.workatastartup.com/jobs/79941?utm_source=github-vansh-ouckah\"",
+    "role": "EDA QA/Testing Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Relixir (X25)",
+    "link": "https://www.workatastartup.com/jobs/80569?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, Backend & AI"
+  },
+  {
+    "company": "Relixir",
+    "link": "https://www.workatastartup.com/jobs/80570?utm_source=github-vansh-ouckah\"",
+    "role": "Forward Deployed Software Engineering Intern"
+  },
+  {
+    "company": "Readily (S23)",
+    "link": "https://www.workatastartup.com/jobs/80462?utm_source=github-vansh-ouckah\"",
+    "role": "Full-Stack Engineering Intern"
+  },
+  {
+    "company": "Reacher",
+    "link": "https://www.workatastartup.com/jobs/80430?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "Promptless",
+    "link": "https://www.workatastartup.com/jobs/80434?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.workatastartup.com/jobs/80435?utm_source=github-vansh-ouckah\"",
+    "role": "AI Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Orchids",
+    "link": "https://www.workatastartup.com/jobs/78815?utm_source=github-vansh-ouckah\"",
+    "role": "Full Stack Engineer Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Mosaic",
+    "link": "https://www.workatastartup.com/jobs/75700?utm_source=github-vansh-ouckah\"",
+    "role": "Full Stack Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Morph",
+    "link": "https://www.workatastartup.com/jobs/79250?utm_source=github-vansh-ouckah\"",
+    "role": "Machine Learning Intern"
+  },
+  {
+    "company": "Mesh",
+    "link": "https://www.workatastartup.com/jobs/80597?utm_source=github-vansh-ouckah\"",
+    "role": "AI Engineer Intern"
+  },
+  {
+    "company": "Mantech",
+    "link": "https://mantech.avature.net/en_US/careers/JobDetail/39666?utm_source=github-vansh-ouckah\"",
+    "role": "CNO Developer Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Garmin",
+    "link": "https://careers.garmin.com/jobs/16828/job?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, Embedded"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careers.garmin.com/jobs/16829?lang=en-us&utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, Web/DevOps"
+  },
+  {
+    "company": "Garage (W24)",
+    "link": "https://www.workatastartup.com/jobs/80381?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Fresco (F24)",
+    "link": "https://www.workatastartup.com/jobs/80559?utm_source=github-vansh-ouckah\"",
+    "role": "AI SWE Intern, Fleet Health Instrumentation"
+  },
+  {
+    "company": "FleetWorks",
+    "link": "https://www.workatastartup.com/jobs/80560?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Ember",
+    "link": "https://www.workatastartup.com/jobs/80610?utm_source=github-vansh-ouckah\"",
+    "role": "Full Stack Engineering Intern"
+  },
+  {
+    "company": "Elanco",
+    "link": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/IT-Junior-Engineer---Technical-Deliver-Intern--Summer-2026-_R0023201?utm_source=github-vansh-ouckah\"",
+    "role": "IT Junior Engineer Intern, Technical Deliver"
+  },
+  {
+    "company": "Cuckoo Labs",
+    "link": "https://www.workatastartup.com/jobs/80699?utm_source=github-vansh-ouckah\"",
+    "role": "Full Stack Engineering Intern"
+  },
+  {
+    "company": "Cua (X25)",
+    "link": "https://www.workatastartup.com/jobs/78742?utm_source=github-vansh-ouckah\"",
+    "role": "Research Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.workatastartup.com/jobs/79783?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, Infra & Agent Systems"
+  },
+  {
+    "company": "CTGT",
+    "link": "https://www.workatastartup.com/jobs/80513?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "CreativeMode",
+    "link": "https://www.workatastartup.com/jobs/80394?utm_source=github-vansh-ouckah\"",
+    "role": "SWE Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Corgi",
+    "link": "https://www.workatastartup.com/jobs/80386?utm_source=github-vansh-ouckah\"",
+    "role": "Technical Builder Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Conductor Quantum",
+    "link": "https://www.workatastartup.com/jobs/80456?utm_source=github-vansh-ouckah\"",
+    "role": "Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Circleback",
+    "link": "https://www.workatastartup.com/jobs/80433?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Cekura",
+    "link": "https://www.workatastartup.com/jobs/80342?utm_source=github-vansh-ouckah\"",
+    "role": "AI Engineer Intern, Voice AI and Chat AI agents: Testing and Observability \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Candle",
+    "link": "https://www.workatastartup.com/jobs/80438?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "BrowserOS",
+    "link": "https://www.workatastartup.com/jobs/78721?utm_source=github-vansh-ouckah\"",
+    "role": "ML Research Engineer Intern"
+  },
+  {
+    "company": "Bluejay",
+    "link": "https://www.workatastartup.com/jobs/78634?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Bindwell (W25)",
+    "link": "https://www.workatastartup.com/jobs/77795?utm_source=github-vansh-ouckah\"",
+    "role": "Machine Learning Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Bild AI",
+    "link": "https://www.workatastartup.com/jobs/80596?utm_source=github-vansh-ouckah\"",
+    "role": "AI/SWE Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Athelas",
+    "link": "https://www.workatastartup.com/jobs/80681?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Aluminum Dynamics",
+    "link": "https://careers-aluminumdynamics.icims.com/jobs/6351/job?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "14.ai",
+    "link": "https://www.workatastartup.com/jobs/75639?utm_source=github-vansh-ouckah\"",
+    "role": "Full Stack Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
     "company": "Verkada",
     "link": "https://job-boards.greenhouse.io/verkada/jobs/4836993007?gh_src=cda0ce657us&utm_source=github-vansh-ouckah\"",
     "role": "Backend Software Engineering Intern"
@@ -103,11 +323,6 @@
     "company": "Grant Thornton",
     "link": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/112823?utm_source=github-vansh-ouckah\"",
     "role": "Technology Modernization Intern \ud83d\udec2"
-  },
-  {
-    "company": "Geico",
-    "link": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/TDP-Software-Intern_R0059640?utm_source=github-vansh-ouckah\"",
-    "role": "TDP Software Intern"
   },
   {
     "company": "Epic Games",
