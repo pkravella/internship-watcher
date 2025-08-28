@@ -1,18 +1,73 @@
 [
   {
-    "company": "Dell",
-    "link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock%2C-Texas%2C-United-States/Dell-Summer-Internship---Software-Engineering_R276698?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineer Intern"
+    "company": "Verkada",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/4836993007?gh_src=cda0ce657us&utm_source=github-vansh-ouckah\"",
+    "role": "Backend Software Engineering Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://job-boards.greenhouse.io/verkada/jobs/4840368007?gh_src=cda0ce657us&utm_source=github-vansh-ouckah\"",
+    "role": "Frontend Software Engineering Intern"
+  },
+  {
+    "company": "Oracle",
+    "link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305901?utm_medium=jobboard&utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern \ud83d\udec2"
+  },
+  {
+    "company": "Microsoft",
+    "link": "https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond?utm_source=github-vansh-ouckah\"",
+    "role": "Software Quality Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw&utm_source=github-vansh-ouckah\"",
+    "role": "Data Engineer Intern"
+  },
+  {
+    "company": "IBM",
+    "link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55372&source=WEB_Search_NA&tags=&user=&formValues=&utm_source=github-vansh-ouckah\"",
+    "role": "Back End Developer Intern"
+  },
+  {
+    "company": "Hewlett Packard Enterprise",
+    "link": "https://careers.hpe.com/us/en/job/1193025/Software-Engineering-Intern?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Geico",
+    "link": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/TDP-Software-Intern_R0059640?utm_source=github-vansh-ouckah\"",
+    "role": "TDP Software Intern"
   },
   {
     "company": "Cisco",
-    "link": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates&user=1&utm_source=github-vansh-ouckah\"",
+    "link": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044?utm_source=github-vansh-ouckah\"",
+    "role": "Consulting Engineer Intern \ud83d\udec2"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/?utm_source=github-vansh-ouckah\"",
     "role": "Security Consulting Engineer Intern \ud83d\udec2"
   },
   {
     "company": "Capital One",
     "link": "https://www.capitalonecareers.com/job/mclean/analyst-early-internship-program-summer-2026/31238/85485933920?utm_source=github-vansh-ouckah\"",
     "role": "Analyst Early Internship Program \ud83d\udec2"
+  },
+  {
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/3066439/front-end-engineer-internship-2026-us?utm_source=github-vansh-ouckah\"",
+    "role": "Front-End Engineer Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.amazon.jobs/en/jobs/3066625/data-engineer-internship-2026-us?utm_source=github-vansh-ouckah\"",
+    "role": "Data Engineer Co-op Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.amazon.jobs/en/jobs/3066561/business-intelligence-engineer-internship-2026-us?utm_source=github-vansh-ouckah\"",
+    "role": "Business Intelligence Engineer Intern"
   },
   {
     "company": "Zebra",
@@ -95,11 +150,6 @@
     "role": "Technology Intern"
   },
   {
-    "company": "Fidelity",
-    "link": "https://fmr.wd1.myworkdayjobs.com/targeted/job/XMLNAME-2100827-Summer-2026-Undergraduate-Internship---Technology_2117047?utm_source=github-vansh-ouckah\"",
-    "role": "Undergraduate Intern, Technology \ud83d\udec2"
-  },
-  {
     "company": "ArcBest Technologies",
     "link": "https://careers.arcb.com/careersmarketplace/JobDetail?id=26993&utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern, ArcBest Technologies \ud83d\udec2"
@@ -133,11 +183,6 @@
     "company": "\u21b3",
     "link": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2026-Technology-Internship-Program_R-121813-1?utm_source=github-vansh-ouckah\"",
     "role": "Technology Internship Program \ud83d\udec2"
-  },
-  {
-    "company": "Northrup Grumman",
-    "link": "https://jobs.northropgrumman.com/careers/job/1340060650174?utm_source=github-vansh-ouckah\"",
-    "role": "2026 Intern Software Engineer \ud83c\uddfa\ud83c\uddf8"
   },
   {
     "company": "Johnson and Johnson",
