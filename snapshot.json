@@ -1,5 +1,50 @@
 [
   {
+    "company": "Texas Instruments",
+    "link": "https://careers.ti.com/en/sites/CX/job/25007019/?utm_source=github-vansh-ouckah\"",
+    "role": "Information Technology Intern, Data Analysis & Engineering \ud83d\udec2"
+  },
+  {
+    "company": "Shure",
+    "link": "https://careersus-shure.icims.com/jobs/4426/job?utm_source=github-vansh-ouckah\"",
+    "role": "Embedded Software Development Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careersus-shure.icims.com/jobs/4454/job?utm_source=github-vansh-ouckah\"",
+    "role": "Mobile Applications (Android) Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careersus-shure.icims.com/jobs/4438/job?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careersus-shure.icims.com/jobs/4405/job?utm_source=github-vansh-ouckah\"",
+    "role": "Cloud Applications Development Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careersus-shure.icims.com/jobs/4453/job?utm_source=github-vansh-ouckah\"",
+    "role": "Mobile Applications (iOS) Intern"
+  },
+  {
+    "company": "Scale.ai",
+    "link": "https://job-boards.greenhouse.io/scaleai/jobs/4606014005?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Plaid",
+    "link": "https://app.ripplematch.com/v2/public/job/146d369a?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83d\udec2"
+  },
+  {
+    "company": "Lockheed Martin",
+    "link": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
     "company": "Vast",
     "link": "https://job-boards.greenhouse.io/vast/jobs/4594952006?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern"
@@ -8,6 +53,11 @@
     "company": "Texas Instruments",
     "link": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022?utm_source=github-vansh-ouckah\"",
     "role": "Information Technology Intern, Software \ud83d\udec2"
+  },
+  {
+    "company": "Symbotic",
+    "link": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R5393?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern"
   },
   {
     "company": "Lyft",
@@ -51,6 +101,11 @@
   },
   {
     "company": "Cboe Global Markets",
+    "link": "https://careers.cboe.com/us/en/job/CBJCGMUSR4121EXTERNALENUS/Machine-Learning-Intern-Regulatory?utm_source=github-vansh-ouckah\"",
+    "role": "Machine Learning Intern, Regulatory"
+  },
+  {
+    "company": "\u21b3",
     "link": "https://careers.cboe.com/us/en/job/CBJCGMUSR4116EXTERNALENUS/Software-Engineer-Intern-Data-Vantage?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern, Data Vantage"
   },
@@ -115,11 +170,6 @@
     "role": "Distributed Systems Developer Intern"
   },
   {
-    "company": "Target",
-    "link": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2026-_R0000402313?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
-  },
-  {
     "company": "ServiceNow",
     "link": "https://jobs.smartrecruiters.com/ServiceNow/744000079993731?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern"
@@ -165,11 +215,6 @@
     "role": "Software Engineering Intern, ICD"
   },
   {
-    "company": "Hitachi Rail",
-    "link": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern--Product-Team--4-8-12-Months-_R1010514?utm_source=github-vansh-ouckah\"",
-    "role": "Software Analyst Intern, Product Team"
-  },
-  {
     "company": "Epic Games",
     "link": "https://www.epicgames.com/site/en-US/careers/jobs/5635299004?utm_source=github-vansh-ouckah\"",
     "role": "Ecommerce Programmer Intern"
@@ -205,19 +250,9 @@
     "role": "Product Management Intern"
   },
   {
-    "company": "Collins Aerospace",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01791714?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Co-Op \ud83c\uddfa\ud83c\uddf8"
-  },
-  {
     "company": "Charles River Associates (CRA)",
     "link": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7233876?utm_source=github-vansh-ouckah\"",
     "role": "Cyber and Forensic Technology Consulting Analyst Intern"
-  },
-  {
-    "company": "Bumble Inc.",
-    "link": "https://jobs.lever.co/bumbleinc/b21c0c9d-b805-4b82-ab4a-1a1d4c2b2ed8?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
   },
   {
     "company": "AVEVA",
@@ -970,11 +1005,6 @@
     "role": "Software Engineering Intern"
   },
   {
-    "company": "Cognex",
-    "link": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
-  },
-  {
     "company": "Cisco",
     "link": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044?utm_source=github-vansh-ouckah\"",
     "role": "Consulting Engineer Intern \ud83d\udec2"
@@ -1088,11 +1118,6 @@
     "company": "\u21b3",
     "link": "https://boards.greenhouse.io/embed/job_app?token=6562194&utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern, Mapping & Localization"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://boards.greenhouse.io/embed/job_app?token=6867897&utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineer Intern, Performance"
   },
   {
     "company": "Microsoft",
@@ -1253,11 +1278,6 @@
     "company": "\u21b3",
     "link": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/details/Summer-2026--Enterprise-Applications-Intern_R2025-0973?q=%27intern%27&utm_source=github-vansh-ouckah\"",
     "role": "Enterprise Applications Intern \ud83c\uddfa\ud83c\uddf8"
-  },
-  {
-    "company": "Motorola Solutions",
-    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900?utm_source=github-vansh-ouckah\"",
-    "role": "Supply Chain Data Analyst Intern"
   },
   {
     "company": "Metronome",
@@ -1848,11 +1868,6 @@
     "company": "DV Group",
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005?utm_source=github-vansh-ouckah\"",
     "role": "Software Development Intern, DV Commodities"
-  },
-  {
-    "company": "Cultivarium",
-    "link": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30?lever-source=Indeed&utm_source=github-vansh-ouckah\"",
-    "role": "Computer Vision and Machine Learning Intern"
   },
   {
     "company": "Capital One",
