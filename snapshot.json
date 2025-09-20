@@ -1,5 +1,20 @@
 [
   {
+    "company": "Meta",
+    "link": "https://www.metacareers.com/jobs/3195203507311171?utm_source=github-vansh-ouckah\"",
+    "role": "Security Engineer Intern, Detection & Response"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.metacareers.com/jobs/1993387314912727?utm_source=github-vansh-ouckah\"",
+    "role": "Product Security Engineer Intern"
+  },
+  {
+    "company": "Sigma Computing",
+    "link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern, Fleet Health Instrumentation \ud83d\udec2"
+  },
+  {
     "company": "OpenAI",
     "link": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern/Co-op"
@@ -33,11 +48,6 @@
     "company": "RBC Capital Markets",
     "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2026-Capital-Markets---Quantitative-Technology-Services-Summer-Analyst_R-0000140751?utm_source=github-vansh-ouckah\"",
     "role": "Summer Analyst, Quantitative Technology Services"
-  },
-  {
-    "company": "Raytheon",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer--Test-Equipment---Onsite_01790571?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineer Intern, Test Equipment \ud83c\uddfa\ud83c\uddf8"
   },
   {
     "company": "Meta",
@@ -128,11 +138,6 @@
     "company": "BAE Systems",
     "link": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026?utm_source=github-vansh-ouckah\"",
     "role": "Software or Computer Engineering Intern \ud83c\uddfa\ud83c\uddf8"
-  },
-  {
-    "company": "Athene",
-    "link": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Intern_R253276?utm_source=github-vansh-ouckah\"",
-    "role": "Software Developer Intern"
   },
   {
     "company": "Microsoft",
@@ -745,11 +750,6 @@
     "role": "Software Engineering Intern \ud83d\udec2"
   },
   {
-    "company": "Mastercard",
-    "link": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineer Intern \ud83d\udec2"
-  },
-  {
     "company": "Lockheed Martin",
     "link": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8"
@@ -932,16 +932,6 @@
   {
     "company": "Cox",
     "link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern--Summer-2026_R202566787?utm_source=github-vansh-ouckah\"",
-    "role": "Product Management Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern--Summer-2026_R202566704?utm_source=github-vansh-ouckah\"",
-    "role": "Product Management Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Product-Management-Intern--Summer-2026_R202566799?utm_source=github-vansh-ouckah\"",
     "role": "Product Management Intern"
   },
   {
@@ -1163,11 +1153,6 @@
     "company": "\u21b3",
     "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Robotics-Research_JR2003245?utm_source=github-vansh-ouckah\"",
     "role": "PhD Robotics Research Intern"
-  },
-  {
-    "company": "Northern Trust",
-    "link": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1?utm_source=github-vansh-ouckah\"",
-    "role": "Technology Intern, Software Development"
   },
   {
     "company": "McNeilus",
@@ -1830,16 +1815,6 @@
     "role": "Systems Engineer Intern"
   },
   {
-    "company": "PwC",
-    "link": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern, Commercial Technology & Innovation Office \ud83d\udec2"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern, Cloud Engineering, Data & Analytics \ud83d\udec2"
-  },
-  {
     "company": "Johnson and Johnson",
     "link": "https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/?utm_source=github-vansh-ouckah\"",
     "role": "Technology Intern \ud83d\udec2"
@@ -2215,11 +2190,6 @@
     "role": "Software Development Intern \ud83d\udec2"
   },
   {
-    "company": "BlackEdge Capital",
-    "link": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005?utm_source=github-vansh-ouckah\"",
-    "role": "Quantitative Trader Intern"
-  },
-  {
     "company": "Beckman Coulter Life Sciences",
     "link": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1294771EXTERNALENGLOBAL/AI-Powered-Marketing-Operations-Project-Management-Intern?utm_source=github-vansh-ouckah\"",
     "role": "AI-Powered Marketing Operations & Project Management Intern"
@@ -2343,11 +2313,6 @@
     "company": "Delta Air Lines, Inc.",
     "link": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Software-Engineering-ATL-Summer-2026/29180?jobId=29180&utm_source=github-vansh-ouckah\"",
     "role": "IT Intern, Software Engineering"
-  },
-  {
-    "company": "Copart",
-    "link": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Data---AI-QA-Intern_JR103915?utm_source=github-vansh-ouckah\"",
-    "role": "Data & AI QA Intern"
   },
   {
     "company": "ByteDance",
