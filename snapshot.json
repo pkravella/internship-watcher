@@ -1,5 +1,15 @@
 [
   {
+    "company": "Chess.com",
+    "link": "https://ats.rippling.com/en-GB/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30?utm_source=github-vansh-ouckah\"",
+    "role": "Engineering Intern, Backend"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://ats.rippling.com/en-GB/chess/jobs/de7de575-d89b-4039-a2ce-ca68ef79c536?utm_source=github-vansh-ouckah\"",
+    "role": "Engineering Intern, Frontend"
+  },
+  {
     "company": "Waymo",
     "link": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-generative-synthetic-data-mountain-view-california-united-states?utm_source=github-vansh-ouckah\"",
     "role": "Generative Synthetic Data Intern"
@@ -48,16 +58,6 @@
     "company": "\u21b3",
     "link": "https://www.lockheedmartinjobs.com/job/denver/cyber-software-engineer-intern/694/86972661296?utm_source=github-vansh-ouckah\"",
     "role": "Cyber Software Engineer Intern \ud83c\uddfa\ud83c\uddf8"
-  },
-  {
-    "company": "KCF Technologies",
-    "link": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern"
   },
   {
     "company": "Causeway",
@@ -453,11 +453,6 @@
     "company": "Schweitzer Engineering Laboratories",
     "link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern---C-_2025-18100?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern, C#"
-  },
-  {
-    "company": "Schonfeld",
-    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7284195?utm_source=github-vansh-ouckah\"",
-    "role": "Quantitative Research Intern"
   },
   {
     "company": "Samsung",
@@ -1761,16 +1756,6 @@
   },
   {
     "company": "Schonfeld",
-    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7246008?utm_source=github-vansh-ouckah\"",
-    "role": "Business Analytics Intern \ud83d\udec2"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7245680?utm_source=github-vansh-ouckah\"",
-    "role": "DMFI Summer Analyst Intern"
-  },
-  {
-    "company": "\u21b3",
     "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7246131?utm_source=github-vansh-ouckah\"",
     "role": "Reference Data Operations Intern"
   },
@@ -1778,11 +1763,6 @@
     "company": "\u21b3",
     "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7246003?utm_source=github-vansh-ouckah\"",
     "role": "Market Risk Intern \ud83d\udec2"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7246747?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern \ud83d\udec2"
   },
   {
     "company": "RoviSys",
@@ -4468,11 +4448,6 @@
     "company": "\u21b3",
     "link": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b?utm_source=github-vansh-ouckah\"",
     "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6?utm_source=github-vansh-ouckah\"",
-    "role": "Forward Deployed Software Engineer Intern, Commercial"
   },
   {
     "company": "\u21b3",
