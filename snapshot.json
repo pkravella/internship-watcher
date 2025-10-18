@@ -1,5 +1,55 @@
 [
   {
+    "company": "Waymo",
+    "link": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-sqr-san-francisco-california-united-states?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, SQR"
+  },
+  {
+    "company": "TikTok",
+    "link": "https://lifeattiktok.com/search/7561941583777941813?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, Monetization Technology"
+  },
+  {
+    "company": "Sigma Computing",
+    "link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83d\udec2"
+  },
+  {
+    "company": "Pega",
+    "link": "https://www.pega.com/about/careers/22692/software-engineer-summer-intern-software-delivery-excellence-alliance?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern \ud83d\udec2"
+  },
+  {
+    "company": "Microsoft",
+    "link": "https://jobs.careers.microsoft.com/us/en/job/1877919/Software-Engineer-Azure-Data-Intern-Opportunities-for-University-Students-Austin?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, Azure Data"
+  },
+  {
+    "company": "Federal Express Corporation",
+    "link": "https://careers.fedex.com/software-engineer-intern-summer-2026/job/P25-284903-1?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "Cognex",
+    "link": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0011348?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Arthrex",
+    "link": "https://careers.arthrex.com/NorthAmerica/job/Naples-SAP-Global-Release-Management-Intern-FL-34108/1335816400/?utm_source=github-vansh-ouckah\"",
+    "role": "SAP Global Release Management Intern"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careers.arthrex.com/NorthAmerica/job/Naples-Custom-Dev-_NET-Intern-FL-34108/1335818300/?utm_source=github-vansh-ouckah\"",
+    "role": "Custom Dev .NET Intern"
+  },
+  {
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/3111792/software-eng-intern?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
     "company": "Zus Health",
     "link": "https://jobs.lever.co/zushealth/54557977-eaa9-4ae9-aadd-9a1ac9551575?utm_source=github-vansh-ouckah\"",
     "role": "Data Platform Software Engineering Co-op"
@@ -523,11 +573,6 @@
     "company": "skillz",
     "link": "http://corp.skillz.com/careers-list/?gh_jid=7308505&utm_source=github-vansh-ouckah\"",
     "role": "Co-op \u2013 Product Management"
-  },
-  {
-    "company": "Sigma Computing",
-    "link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7493936003?utm_source=github-vansh-ouckah\"",
-    "role": "AI/ML Graduate Engineering Intern"
   },
   {
     "company": "Sephora",
@@ -1398,11 +1443,6 @@
     "company": "McDonald's",
     "link": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-GTIO-Intern-IL-60607/1329553100?utm_source=github-vansh-ouckah\"",
     "role": "Global Technology Intern - Global Technology Infrastructure & Operations"
-  },
-  {
-    "company": "Maven Securities",
-    "link": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227501?utm_source=github-vansh-ouckah\"",
-    "role": "Trading Intern"
   },
   {
     "company": "Macy's",
@@ -2413,11 +2453,6 @@
     "company": "AMD",
     "link": "https://careers.amd.com/careers-home/jobs/71723/job?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern/Co-op"
-  },
-  {
-    "company": "Sigma Computing",
-    "link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern, Fleet Health Instrumentation \ud83d\udec2"
   },
   {
     "company": "OpenAI",
@@ -5273,11 +5308,6 @@
     "company": "\u21b3",
     "link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f?utm_source=github-vansh-ouckah\"",
-    "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
   },
   {
     "company": "\u21b3",
