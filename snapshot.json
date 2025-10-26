@@ -1,5 +1,100 @@
 [
   {
+    "company": "Viasat",
+    "link": "https://careers.viasat.com/jobs/5294/job?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern"
+  },
+  {
+    "company": "Uber Freight",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=uberfreight&token=4961311008&utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern"
+  },
+  {
+    "company": "Tasker AI",
+    "link": "https://www.workatastartup.com/jobs/84053?utm_source=github-vansh-ouckah\"",
+    "role": "Hardware Engineering Intern"
+  },
+  {
+    "company": "Skyworks",
+    "link": "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Summer-Intern-2026-OR-97006/1319944600/?utm_source=github-vansh-ouckah\"",
+    "role": "Audio AI Engineering Intern"
+  },
+  {
+    "company": "Silimate",
+    "link": "https://www.workatastartup.com/jobs/79941?utm_source=github-vansh-ouckah\"",
+    "role": "EDA QA/Testing Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "S&P Global",
+    "link": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/New-York-NY/Data-Engineer-Intern_321891-1?utm_source=github-vansh-ouckah\"",
+    "role": "Data Engineer Intern \ud83d\udec2"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://careers.spglobal.com/jobs/321766?lang=en-us&utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83d\udec2"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/Princeton-NJ/Software-Engineer-Intern--Early-Career-_321759-1?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern \ud83d\udec2"
+  },
+  {
+    "company": "PACCAR",
+    "link": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-Application-Developer-%28OH%29-WA-98033/1260990901/?utm_source=github-vansh-ouckah\"",
+    "role": "Application Developer Intern"
+  },
+  {
+    "company": "OTTO Engineering",
+    "link": "https://otto-engineering-inc.breezy.hr/p/5fe03a0ab3df-firmware-embedded-engineer-internship-communications?utm_source=github-vansh-ouckah\"",
+    "role": "Firmware/Embedded Engineer Intern, Communications"
+  },
+  {
+    "company": "Nintendo of America",
+    "link": "https://careers.nintendo.com/job-openings/listing/25000000DX.html?utm_source=github-vansh-ouckah\"",
+    "role": "IT Software Engineer Intern"
+  },
+  {
+    "company": "Nintendo",
+    "link": "https://careers.nintendo.com/job-openings/listing/25000000EM.html?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineer Intern, CPU Profiling Tool\u2019s Team \ud83d\udec2"
+  },
+  {
+    "company": "Lumafield",
+    "link": "https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe&utm_source=github-vansh-ouckah\"",
+    "role": "Engineering Intern, Embedded Software"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://www.lumafield.com/careers/job?id=f4301925-6a92-458c-961e-f9560f058df8&utm_source=github-vansh-ouckah\"",
+    "role": "Engineering Intern, Process"
+  },
+  {
+    "company": "General Motors Financial",
+    "link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1068?utm_source=github-vansh-ouckah\"",
+    "role": "Software Development Engineer Intern \ud83d\udec2"
+  },
+  {
+    "company": "\u21b3",
+    "link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074?utm_source=github-vansh-ouckah\"",
+    "role": "Enterprise Architecture Intern \ud83d\udec2"
+  },
+  {
+    "company": "Ericsson",
+    "link": "https://jobs.ericsson.com/careers/job/563121772567101?utm_source=github-vansh-ouckah\"",
+    "role": "AI Software Development Intern \ud83d\udec2"
+  },
+  {
+    "company": "Credit Karma",
+    "link": "https://boards.greenhouse.io/embed/job_app?token=5760872003&utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering intern \ud83d\udec2"
+  },
+  {
+    "company": "Cox Enterprises",
+    "link": "https://jobs.coxenterprises.com/en/jobs/r202568804/software-engineering-intern-burlington-vt-summer-2026/?utm_source=github-vansh-ouckah\"",
+    "role": "Software Engineering Intern, Burlington, VT"
+  },
+  {
     "company": "Waymo",
     "link": "https://careers.withwaymo.com/jobs?gh_jid=7347429&utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern"
@@ -143,6 +238,11 @@
     "company": "GE Vernova",
     "link": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Applied-AI---Controls-Transformation-Intern---Summer-2026_R5022709-1?utm_source=github-vansh-ouckah\"",
     "role": "Applied AI & Controls Transformation Intern \ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "company": "Fizz",
+    "link": "https://www.workatastartup.com/jobs/83826?utm_source=github-vansh-ouckah\"",
+    "role": "Data Scientist Intern"
   },
   {
     "company": "Experian",
@@ -303,11 +403,6 @@
     "company": "\u21b3",
     "link": "https://job-boards.greenhouse.io/skyryse/jobs/7341596?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern, AI"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://job-boards.greenhouse.io/skyryse/jobs/7341574?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineer Intern, Tools"
   },
   {
     "company": "Sartorius",
@@ -1385,11 +1480,6 @@
     "role": "AI Documentation Integration Intern, Autonomous Cascadia"
   },
   {
-    "company": "Charles River Associates (CRA)",
-    "link": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7191000?utm_source=github-vansh-ouckah\"",
-    "role": "Data Analytics Consulting Analyst/Associate Intern, Life Sciences/Analytics"
-  },
-  {
     "company": "Booz Allen",
     "link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Roseville-CA/University---Software-Developer_R0225556?utm_source=github-vansh-ouckah\"",
     "role": "Software Developer Intern, Full Stack Development"
@@ -1510,11 +1600,6 @@
     "role": "Product Strategist Intern - Global Monetization Product and Technology"
   },
   {
-    "company": "The Tudor Group",
-    "link": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194?utm_source=github-vansh-ouckah\"",
-    "role": "Quantitative Developer Intern (Pipeline Team) \ud83d\udec2"
-  },
-  {
     "company": "Susquehanna International Group (SIG)",
     "link": "https://careers-sig.icims.com/jobs/9859/job?utm_source=github-vansh-ouckah\"",
     "role": "Linux Engineer Intern"
@@ -1627,11 +1712,6 @@
   {
     "company": "Microsoft",
     "link": "https://jobs.careers.microsoft.com/global/en/job/1884365?utm_source=github-vansh-ouckah\"",
-    "role": "Explore Program Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://jobs.careers.microsoft.com/global/en/job/1884627?utm_source=github-vansh-ouckah\"",
     "role": "Explore Program Intern"
   },
   {
@@ -2113,11 +2193,6 @@
     "company": "Expedition Technology",
     "link": "https://www.exptechinc.com/careers/?gh_jid=4916425007&utm_source=github-vansh-ouckah\"",
     "role": "Software Engineering Intern"
-  },
-  {
-    "company": "Bracebridge Capital",
-    "link": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601209005?utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineer Co-op"
   },
   {
     "company": "Boston Scientific",
@@ -2788,11 +2863,6 @@
     "company": "Solarity",
     "link": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=235750&clientkey=43D75E2DF3DFB76BCB85A922B26DE5FA&utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern"
-  },
-  {
-    "company": "Schonfeld",
-    "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7246003?utm_source=github-vansh-ouckah\"",
-    "role": "Market Risk Intern \ud83d\udec2"
   },
   {
     "company": "RoviSys",
@@ -4165,11 +4235,6 @@
     "role": "Technology Software Development & Engineering Intern \ud83d\udec2"
   },
   {
-    "company": "Nuro",
-    "link": "https://boards.greenhouse.io/embed/job_app?token=6562194&utm_source=github-vansh-ouckah\"",
-    "role": "Software Engineering Intern, Mapping & Localization"
-  },
-  {
     "company": "Hilton",
     "link": "https://jobs.hilton.com/us/en/job/COR015AL/2026-Corporate-Summer-Internship-Technology-Cyber-Engineering-Product-Management?utm_source=github-vansh-ouckah\"",
     "role": "Technology Intern"
@@ -5388,16 +5453,6 @@
     "company": "\u21b3",
     "link": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249?utm_source=github-vansh-ouckah\"",
     "role": "Software Engineer Intern"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b?utm_source=github-vansh-ouckah\"",
-    "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
-  },
-  {
-    "company": "\u21b3",
-    "link": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2?utm_source=github-vansh-ouckah\"",
-    "role": "Forward Deployed Software Engineer Intern, US Government \ud83c\uddfa\ud83c\uddf8"
   },
   {
     "company": "\u21b3",
